@@ -1,7 +1,7 @@
 1. Percabangan If
 ![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/percabangan%20if.PNG) 
 2. Operator Perbandingan
-![image](
+![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/operator%20perbandingan.PNG) 
 3. Operator Logika
 ![image](
 4. Perulangan While
