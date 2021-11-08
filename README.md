@@ -1,5 +1,5 @@
 1. Percabangan If
-![image](
+![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/percabangan%20if.PNG) 
 2. Operator Perbandingan
 ![image](
 3. Operator Logika
