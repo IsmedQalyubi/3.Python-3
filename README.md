@@ -10,4 +10,5 @@
 ![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/game%20tebak%20angka.PNG) 
 6. Aplikasi Kalkulator
 ![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/aplikasi%20kalkulator.PNG) 
-![image](
+Hasilnya:
+![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/output%20aplikasi%20kalkulator.PNG) 
