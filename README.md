@@ -7,7 +7,7 @@
 4. Perulangan While
 ![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/perulangan%20while.PNG) 
 5. Game Tebak Angka
-![image](
+![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/game%20tebak%20angka.PNG) 
 6. Aplikasi Kalkulator
 ![image](
 ![image](
