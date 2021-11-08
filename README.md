@@ -3,7 +3,7 @@
 2. Operator Perbandingan
 ![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/operator%20perbandingan.PNG) 
 3. Operator Logika
-![image](
+![image](https://github.com/IsmedQalyubi/3.Python-3/blob/main/operator%20logika.PNG) 
 4. Perulangan While
 ![image](
 5. Game Tebak Angka
